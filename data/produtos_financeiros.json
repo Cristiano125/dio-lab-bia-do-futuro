@@ -38,5 +38,125 @@
     "rentabilidade": "Variável",
     "aporte_minimo": 100.00,
     "indicado_para": "Perfil arrojado com foco no longo prazo"
+  },
+  {
+    "nome": "CDB Prefixado",
+    "categoria": "Renda fixa",
+    "risco": "Baixo (FGC)",
+    "rentabilidade": "14% ao ano",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Investidores que querem previsibilidade"
+  },
+  {
+    "nome": "CDB Pós-fixado 115% do CDI",
+    "categoria": "Renda fixa",
+    "risco": "Baixo (FGC)",
+    "rentabilidade": "115% do CDI (~16,1% a.a. no exemplo)",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Quem busca rendimento acima do CDI"
+  },
+  {
+    "nome": "LCI IPCA + 7,5% a.a.",
+    "categoria": "Renda fixa isenta",
+    "risco": "Baixo (FGC)",
+    "rentabilidade": "IPCA + 7,5% ao ano",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Proteção contra inflação"
+  },
+  {
+    "nome": "Tesouro IPCA+",
+    "categoria": "Renda fixa pública",
+    "risco": "Muito baixo",
+    "rentabilidade": "IPCA + taxa fixa (ex.: 5% a.a.)",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Objetivos de longo prazo"
+  },
+  {
+    "nome": "Tesouro Prefixado",
+    "categoria": "Renda fixa pública",
+    "risco": "Muito baixo",
+    "rentabilidade": "Taxa fixa anual (ex.: 10% a.a.)",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Quem acredita na queda dos juros"
+  },
+  {
+    "nome": "Tesouro Selic",
+    "categoria": "Renda fixa pública",
+    "risco": "Muito baixo",
+    "rentabilidade": "Selic anual (ex.: 13,25% a.a.)",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Reserva de emergência"
+  },
+  {
+    "nome": "Debênture Incentivada",
+    "categoria": "Renda fixa privada",
+    "risco": "Médio",
+    "rentabilidade": "IPCA + taxa fixa (ex.: IPCA + 6% a.a.)",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Longo prazo com isenção de IR"
+  },
+  {
+    "nome": "Fundo DI",
+    "categoria": "Fundos de investimento",
+    "risco": "Baixo",
+    "rentabilidade": "Próxima ao CDI (ex.: 98% a 105% do CDI)",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Perfil conservador"
+  },
+  {
+    "nome": "Fundo de Renda Fixa",
+    "categoria": "Fundos de investimento",
+    "risco": "Baixo a médio",
+    "rentabilidade": "Taxa variável (ex.: 8% a 12% a.a.)",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Diversificação simples"
+  },
+  {
+    "nome": "Fundo Multimercado",
+    "categoria": "Fundos de investimento",
+    "risco": "Médio a alto",
+    "rentabilidade": "Variável (ex.: 10% a 20% a.a.)",
+    "aporte_minimo": 500.00,
+    "indicado_para": "Investidores moderados"
+  },
+  {
+    "nome": "Fundo de Ações",
+    "categoria": "Fundos de investimento",
+    "risco": "Alto",
+    "rentabilidade": "Variável (ex.: 15% a 30% a.a.)",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Longo prazo e maior risco"
+  },
+  {
+    "nome": "ETF de Renda Variável",
+    "categoria": "Bolsa de valores",
+    "risco": "Alto",
+    "rentabilidade": "Varia conforme o índice (ex.: 10% a 25% a.a.)",
+    "aporte_minimo": 50.00,
+    "indicado_para": "Diversificação na bolsa"
+  },
+  {
+    "nome": "Ações",
+    "categoria": "Renda variável",
+    "risco": "Alto",
+    "rentabilidade": "Variável (ex.: 5% a 40% a.a.)",
+    "aporte_minimo": 1.00,
+    "indicado_para": "Investidores experientes"
+  },
+  {
+    "nome": "Fundo Imobiliário (FII)",
+    "categoria": "Renda variável",
+    "risco": "Médio",
+    "rentabilidade": "Dividend yield (ex.: 8% a 12% a.a.)",
+    "aporte_minimo": 10.00,
+    "indicado_para": "Renda mensal"
+  },
+  {
+    "nome": "CRI/CRA",
+    "categoria": "Renda fixa estruturada",
+    "risco": "Médio a alto",
+    "rentabilidade": "IPCA + taxa fixa (ex.: IPCA + 7% a.a.)",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Investidores qualificados"
   }
 ]
